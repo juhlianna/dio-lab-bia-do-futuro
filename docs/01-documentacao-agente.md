@@ -67,7 +67,7 @@ flowchart TD
 | Validação            | Módulo de checagem de consistência e prevenção de alucinações             |
 
 ### Segurança e Anti-Alucinação
-#### Estratégias Adotadas
+> Estratégias Adotadas
 [x] Agente só responde com base nos dados fornecidos ou fontes confiáveis
 
 [x] Respostas incluem referência ou fonte da informação quando aplicável
@@ -79,7 +79,7 @@ flowchart TD
 [x] Implementa filtros para evitar informações incorretas ou enviesadas
 
 ### Limitações Declaradas
-#### O que o agente NÃO faz?
+> O que o agente NÃO faz?
 
 Não substitui consultoria financeira profissional
 
