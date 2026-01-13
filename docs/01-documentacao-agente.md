@@ -5,7 +5,7 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-[Sua descrição aqui]
+
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
