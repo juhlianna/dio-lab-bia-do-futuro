@@ -56,4 +56,16 @@ flowchart TD
     D --> C
     C --> E[Validação]
     E --> F[Resposta]
+```
+### Componentes
+
+| Componente           | Descrição                                                                 |
+|----------------------|---------------------------------------------------------------------------|
+| Interface            | Chatbot em Streamlit ou aplicativo web/mobile                             |
+| LLM                  | Modelo de linguagem (ex: GPT-4 via API)                                   |
+| Base de Conhecimento | Banco de dados estruturado (JSON/CSV) com informações financeiras do cliente |
+| Validação            | Módulo de checagem de consistência e prevenção de alucinações             |
+
+
+
 
