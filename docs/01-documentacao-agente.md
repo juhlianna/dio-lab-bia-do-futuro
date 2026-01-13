@@ -66,6 +66,31 @@ flowchart TD
 | Base de Conhecimento | Banco de dados estruturado (JSON/CSV) com informações financeiras do cliente |
 | Validação            | Módulo de checagem de consistência e prevenção de alucinações             |
 
+### Segurança e Anti-Alucinação
+#### Estratégias Adotadas
+[x] Agente só responde com base nos dados fornecidos ou fontes confiáveis
+
+[x] Respostas incluem referência ou fonte da informação quando aplicável
+
+[x] Quando não sabe, admite a limitação e redireciona para alternativas seguras
+
+[x] Não faz recomendações de investimento sem perfil financeiro do cliente
+
+[x] Implementa filtros para evitar informações incorretas ou enviesadas
+
+### Limitações Declaradas
+#### O que o agente NÃO faz?
+
+Não substitui consultoria financeira profissional
+
+Não realiza transações bancárias ou investimentos diretamente
+
+Não fornece previsões de mercado especulativas
+
+Não garante resultados financeiros futuros
+
+Não acessa dados pessoais sem consentimento explícito do usuário
+
 
 
 
