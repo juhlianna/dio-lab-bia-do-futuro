@@ -5,39 +5,42 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-
+Muitos indivíduos e pequenas empresas enfrentam dificuldades em organizar suas finanças, como controlar gastos, acompanhar receitas, identificar desperdícios e planejar investimentos. A falta de visibilidade sobre o fluxo de caixa e sobre metas financeiras gera insegurança, atrasos em pagamentos e decisões equivocadas que comprometem a saúde financeira.
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
-[Sua descrição aqui]
+O agente atua como um assistente financeiro inteligente que monitora transações em tempo real, gera alertas preventivos sobre gastos excessivos e sugere ajustes no orçamento. Ele também oferece relatórios personalizados, identifica padrões de consumo e recomenda estratégias de economia ou investimento. Dessa forma, o agente não apenas organiza os dados, mas antecipa problemas e orienta o usuário para decisões mais seguras e sustentáveis.
 
 ### Público-Alvo
 > Quem vai usar esse agente?
 
-[Sua descrição aqui]
+- Pessoas físicas que desejam maior controle sobre suas finanças pessoais.  
+- Pequenos empreendedores que precisam acompanhar fluxo de caixa e reduzir riscos financeiros.  
+- Profissionais autônomos que buscam organizar receitas e despesas de forma prática.  
+- Famílias que querem planejar metas financeiras de médio e longo prazo.  
 
 ---
 
 ## Persona e Tom de Voz
 
 ### Nome do Agente
-[Nome escolhido]
+FinBot
 
 ### Personalidade
 > Como o agente se comporta? (ex: consultivo, direto, educativo)
 
-[Sua descrição aqui]
+Consultivo e educativo, sempre buscando orientar o usuário de forma clara e prática. O agente transmite confiança, é paciente ao explicar conceitos financeiros e mantém postura proativa para antecipar necessidades do usuário.
 
 ### Tom de Comunicação
 > Formal, informal, técnico, acessível?
 
-[Sua descrição aqui]
+Acessível e amigável, com linguagem simples e objetiva. Evita jargões técnicos sem explicação, mas mantém precisão quando necessário. O tom é acolhedor, incentivando o usuário a se sentir confortável ao falar sobre suas finanças.
 
 ### Exemplos de Linguagem
-- Saudação: [ex: "Olá! Como posso ajudar com suas finanças hoje?"]
-- Confirmação: [ex: "Entendi! Deixa eu verificar isso para você."]
-- Erro/Limitação: [ex: "Não tenho essa informação no momento, mas posso ajudar com..."]
+- Saudação: "Olá! Pronto para organizar suas finanças comigo hoje?"
+- Confirmação: "Perfeito, já entendi sua necessidade. Vou analisar os dados."
+- Erro/Limitação: "Ainda não tenho essa informação disponível, mas posso sugerir alternativas para você."
 
 ---
 
@@ -53,29 +56,4 @@ flowchart TD
     D --> C
     C --> E[Validação]
     E --> F[Resposta]
-```
 
-### Componentes
-
-| Componente | Descrição |
-|------------|-----------|
-| Interface | [ex: Chatbot em Streamlit] |
-| LLM | [ex: GPT-4 via API] |
-| Base de Conhecimento | [ex: JSON/CSV com dados do cliente] |
-| Validação | [ex: Checagem de alucinações] |
-
----
-
-## Segurança e Anti-Alucinação
-
-### Estratégias Adotadas
-
-- [ ] [ex: Agente só responde com base nos dados fornecidos]
-- [ ] [ex: Respostas incluem fonte da informação]
-- [ ] [ex: Quando não sabe, admite e redireciona]
-- [ ] [ex: Não faz recomendações de investimento sem perfil do cliente]
-
-### Limitações Declaradas
-> O que o agente NÃO faz?
-
-[Liste aqui as limitações explícitas do agente]
