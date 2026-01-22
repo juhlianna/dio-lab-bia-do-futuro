@@ -25,6 +25,9 @@ Agora os produtos apresentados aqui são do meu conhecimento.
 ## Estratégia de Integração
 
 ### Como os dados são carregados?
+# Exemplo de leitura de arquivos CSV e JSON em Python
+
+```python
 import pandas as pd
 import json
 
