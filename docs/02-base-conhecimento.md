@@ -55,7 +55,7 @@ with open("produtos_financeiros.json", "r", encoding="utf-8") as f:
 print("Produtos Financeiros:")
 print(produtos_financeiros, "\n")
 
-
+```
 ### Como os dados são usados no prompt?
 > Os dados vão no system prompt? São consultados dinamicamente?
 
