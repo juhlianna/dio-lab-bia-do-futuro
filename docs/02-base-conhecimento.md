@@ -17,7 +17,8 @@ Descreva se usou os arquivos da pasta `data`, por exemplo:
 
 > Você modificou ou expandiu os dados mockados? Descreva aqui.
 
-O produto Fundo Imobiliário (FII) foi adicionado, sem retirar nenhum outro produto.
+O produto Fundo Imobiliário (FII) foi adicionado em substituição ao Fundo Multimercado, sem retirar nenhum outro produto. 
+Agora os produtos apresentados aqui são do meu conhecimento.
 
 ---
 
