@@ -2,8 +2,8 @@
 
 Esta pasta contém o código do seu agente financeiro.
 
-## Setup do Ollama
-# Instalar Ollama (https://ollama.com/download)
+Setup do Ollama
+Instalar Ollama (https://ollama.com/download)
 MODELO = "llama3.2"
 
 
