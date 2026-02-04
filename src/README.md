@@ -32,3 +32,7 @@ pip install -r requirements.txt
 # Rodar a aplicação
 streamlit run app.py
 ```
+
+## Evidências do funcionamento
+<img width="1008" height="734" alt="image" src="https://github.com/user-attachments/assets/9d31f06c-01be-4abd-bc3f-ca97e2f4a723" />
+
