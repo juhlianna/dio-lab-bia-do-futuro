@@ -1,15 +1,18 @@
-# Código da Aplicação
+# Passo a passo da Execução
 
 Esta pasta contém o código do seu agente financeiro.
 
-## Estrutura Sugerida
+## Setup do Ollama
+# Instalar Ollama (https://ollama.com/download)
+MODELO = "llama3.2"
+
+
+## Estrutura do código
 
 ```
 src/
 ├── app.py              # Aplicação principal (Streamlit/Gradio)
-├── agente.py           # Lógica do agente
-├── config.py           # Configurações (API keys, etc.)
-└── requirements.txt    # Dependências
+
 ```
 
 ## Exemplo de requirements.txt
